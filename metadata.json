@@ -1,0 +1,6 @@
+{
+  "name": "Bano’s.Store — Premium Apparel & Lifestyle Goods",
+  "description": "High-quality Chinese apparel, winter coats, knitwear, trousers, bags, and footwear. Premium retail and wholesale collections at reasonable prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
